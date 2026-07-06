@@ -107,4 +107,13 @@ A list for components that would be cool in the complete system
   - Can a map be created with how bumpy stretches of road are compared to others to create a heatmap (maybe useful for infrastructure improvements)
 - Can roaming cost be reduced with LoRaWAN
 - Can the phone camera be used for object or road unit detection
-- 
+- What can legally be transmitted that would benefit the vru/cyclist
+- Are people willing to pay for a system like this/ willing to install it
+- Is CAN Bus the best candidate for a wire bicycle  bus. Is there a better protocoll with power over bus. Be existing cables can be reused.
+- How can a battery be charged while driving so that is doesnt have to be recharged manually.
+- How many sensors are needed to solve the kinematic model of a bicycle?
+- What are the different kinematic models of a bicycle.
+- Can localization be done completely without gnss?
+- What can be done form the infrastructure providers to improve safety of vrus using obus
+- What needs to be done in rural areas thats possible in citys
+
